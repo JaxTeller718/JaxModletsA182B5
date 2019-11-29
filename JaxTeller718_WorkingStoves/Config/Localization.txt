@@ -1,0 +1,5 @@
+﻿Key,,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
+stoveKit,,items,Item,KgNone,Stove Repair Kit
+stoveKitDesc,,items,Item,New,"This stove repair kit is used with a hammer to take a broken stove and make it a working one that you can use."
+workingStove,,blocks,Workstation,KgNone,Working Stove
+workingStoveDesc,,blocks,Workstation,KgNone,"A working stove can be used to cook food and some chemicals in a safe environment."
