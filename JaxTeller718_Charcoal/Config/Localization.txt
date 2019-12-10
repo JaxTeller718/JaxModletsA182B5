@@ -1,3 +1,3 @@
-﻿Key,,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
-resourceCharcoal,,items,Item,KgNone,Charcoal
-resourceCharcoalDesc,,items,Item,KgNone,"The smell of family cookouts and holidays past. Use these for the best burn times. If you can get it to stay lit."
+﻿Key,Source,Context,English
+resourceCharcoal,items,Item,Charcoal
+resourceCharcoalDesc,items,Item,"The smell of family cookouts and holidays past. Use these for the best burn times. If you can get it to stay lit."

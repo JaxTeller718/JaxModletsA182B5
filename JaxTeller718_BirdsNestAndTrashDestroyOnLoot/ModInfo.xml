@@ -4,7 +4,7 @@
 		<Name value="JaxTeller718_BirdsNestAndTrashDestroyOnLoot" />
 		<Description value="Sets it so birds nests and trash bags will destroy upon looting" />
 		<Author value="JaxTeller718" />
-		<Version value="1.1" compat="A18.2b5" />
+		<Version value="1.2" compat="A18.2b5" />
 		<Website value="https://ravenhearst.enjin.com/" />
 	</ModInfo>
 </xml>

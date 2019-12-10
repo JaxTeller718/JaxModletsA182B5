@@ -1,5 +1,5 @@
-﻿Key,,UsedInMainMenu,Source,Context,Changes,English,French,German,Klingon,Spanish,Polish
-jackOLanternBlueRH,,blocks,Block,New,Jax O' Lantern (Blue)
-jackOLanternGreenRH,,blocks,Block,New,Jax O' Lantern (Green)
-jackOLanternRedRH,,blocks,Block,New,Jax O' Lantern (Red)
-jackOLanternDesc,,blocks,Block,New,Happy Halloween from the ghoulish Jax. What trick does he have in store for this boo-tiful treat!
+﻿Key,Source,Context,English
+jackOLanternBlueRH,blocks,Block,Jax O' Lantern (Blue)
+jackOLanternGreenRH,blocks,Block,Jax O' Lantern (Green)
+jackOLanternRedRH,blocks,Block,Jax O' Lantern (Red)
+jackOLanternDesc,blocks,Block,Happy Halloween from the ghoulish Jax. What trick does he have in store for this boo-tiful treat!
